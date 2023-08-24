@@ -35,4 +35,4 @@ Od ponad roku pracuję jako tester oprogramowania. Moim zadaniem jest manualne t
 *	[Jeff Sutherland, Scrum, czyli jak robić dwa razy więcej, dwa razy szybciej](https://helion.pl/ksiazki/scrum-czyli-jak-robic-dwa-razy-wiecej-dwa-razy-szybciej-jeff-sutherland,e_1otu.htm#format/e)
 
 ## Projekty
-* GoIT - QA marathon
+* [GoIT - QA marathon](https://github.com/agnieszkafras/GoIT-maraton-QA)
