@@ -29,6 +29,7 @@ Od ponad roku pracuję jako tester oprogramowania. Moim zadaniem jest manualne t
 * Praktyczny kurs testowania oprogramowania – Udemy
 * Automatyzacja testów: Selenium WebDriver Java od podstaw – Udemy
 * Selenium IDE - Podstawy Automatyzacji, lokatory WebDriver – Udemy
+* GIT od podstaw dla każdego – Udemy
 
 ## Książki
 *	[Adam Roman, Lucjan Stapp, Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
