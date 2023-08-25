@@ -37,3 +37,4 @@ Od ponad roku pracuję jako tester oprogramowania. Moim zadaniem jest manualne t
 
 ## Projekty
 * [GoIT - QA marathon](https://github.com/agnieszkafras/GoIT-maraton-QA)
+* [Postman - API testing](https://github.com/agnieszkafras/postman-API-testing)
