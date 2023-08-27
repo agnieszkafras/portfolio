@@ -10,7 +10,7 @@ Od ponad roku pracuję jako tester oprogramowania. Moim zadaniem jest manualne t
 *	SQL
 *	Postman
 *	Git
-*	XML, HTML, CSS
+*	HTML, CSS, XML, JSON
 *	Chrome DevTools
 *	Microsoft SQL Server Management Studio
 *	Microsoft Visual Studio
