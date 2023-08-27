@@ -14,6 +14,7 @@ Od ponad roku pracuję jako tester oprogramowania. Moim zadaniem jest manualne t
 *	Chrome DevTools
 *	Microsoft SQL Server Management Studio
 *	Microsoft Visual Studio
+*	Visual Studio Code
 *	Selenium IDE
 *	Java (w trakcie nauki)
 *	Scrum
