@@ -26,11 +26,12 @@ Od ponad roku pracuję jako tester oprogramowania. Moim zadaniem jest manualne t
 * Profesjonalne testowanie oprogramowania zgodne ze standardem ISTQB® - Comarch S.A.
 * SQL język dostępu do bazy danych MS SQL Server – Comarch S.A.
 * Scrum z elementami Kanban – Comarch S.A.
-* Postman od podstaw – testowanie REST API – Udemy
-* Praktyczny kurs testowania oprogramowania – Udemy
-* Automatyzacja testów: Selenium WebDriver Java od podstaw – Udemy
-* Selenium IDE - Podstawy Automatyzacji, lokatory WebDriver – Udemy
-* GIT od podstaw dla każdego – Udemy
+* [Postman od podstaw – testowanie REST API](https://www.udemy.com/course/kurs-postman/) – Udemy
+* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) – Udemy
+* [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://www.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw/) – Udemy
+* [Selenium IDE - Podstawy Automatyzacji, lokatory WebDriver](https://www.udemy.com/course/selenium-ide-podstawy/) – Udemy
+* [GIT od podstaw dla każdego](https://www.udemy.com/course/git-od-podstaw-dla-kazdego/) – Udemy
+* [Master XPath and CSS Selectors for Selenium WebDriver](https://www.udemy.com/course/xpath-and-css-selectors/) - Udemy
 
 ## Książki
 *	[Adam Roman, Lucjan Stapp, Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
