@@ -40,4 +40,4 @@ Od ponad roku pracuję jako tester oprogramowania. Moim zadaniem jest manualne t
 ## Projekty
 * [GoIT - maraton QA](https://github.com/agnieszkafras/GoIT-maraton-QA)
 * [Postman - API testing](https://github.com/agnieszkafras/postman-API-testing)
-* [the-internet.herokuapp](https://github.com/agnieszkafras/the-internet.herokuapp-automation-tests) - automation tests using Selenium WebDriver with Java
+* [the-internet.herokuapp](https://github.com/agnieszkafras/the-internet.herokuapp) - automation tests using Selenium WebDriver with Java
