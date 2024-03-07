@@ -15,8 +15,9 @@ Od ponad roku pracuję jako tester oprogramowania. Moim zadaniem jest manualne t
 *	Microsoft SQL Server Management Studio
 *	Microsoft Visual Studio
 *	Visual Studio Code
-*	Selenium IDE
 *	Java (w trakcie nauki)
+*	Selenium IDE
+*	Selenium WebDriver
 *	Scrum
 
 ## Certyfikaty
@@ -26,6 +27,7 @@ Od ponad roku pracuję jako tester oprogramowania. Moim zadaniem jest manualne t
 * Profesjonalne testowanie oprogramowania zgodne ze standardem ISTQB® - Comarch S.A.
 * SQL język dostępu do bazy danych MS SQL Server – Comarch S.A.
 * Scrum z elementami Kanban – Comarch S.A.
+* Agile Testing - Comarch S.A.
 * [Postman od podstaw – testowanie REST API](https://www.udemy.com/course/kurs-postman/) – Udemy
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) – Udemy
 * [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://www.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw/) – Udemy
