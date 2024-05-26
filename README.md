@@ -1,7 +1,7 @@
 # Portfolio
 
 ## O mnie
-Od ponad roku pracuję jako tester oprogramowania. Moim zadaniem jest manualne testowanie systemu ERP (aplikacja desktopowa). Poprzednio byłam związana z księgowością. Odpowiadałam m.in. za prowadzenie ksiąg rachunkowych, obsługę kadrowo-płacową, sporządzanie deklaracji. Zmiana branży na IT to był bardzo dobry pomysł i nadal chciałabym się rozwijać w tym kierunku.
+Jestem certyfikowanym testerem oprogramowania z 2-letnim doświadczeniem zawodowym. Obecnie zajmuję się manualnym testowaniem systemu ERP (aplikacja desktopowa). Jestem w trakcie nauki tworzenia testów automatycznych. Nadal chciałabym się rozwijać w tym kierunku.
 
 ## Narzędzia/umiejętności
 
