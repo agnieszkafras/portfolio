@@ -34,6 +34,7 @@ Jestem certyfikowanym testerem oprogramowania z 2-letnim doświadczeniem zawodow
 * [Selenium IDE - Podstawy Automatyzacji, lokatory WebDriver](https://www.udemy.com/course/selenium-ide-podstawy/) – Udemy
 * [GIT od podstaw dla każdego](https://www.udemy.com/course/git-od-podstaw-dla-kazdego/) – Udemy
 * [Master XPath and CSS Selectors for Selenium WebDriver](https://www.udemy.com/course/xpath-and-css-selectors/) - Udemy
+* [Advanced Selenium WebDriver with Java and TestNG](https://www.udemy.com/course/advanced-selenium-webdriver/) - Udemy
 
 ## Książki
 *	[Adam Roman, Lucjan Stapp, Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
