@@ -1,7 +1,7 @@
 # Portfolio
 
 ## O mnie
-Jestem certyfikowanym testerem oprogramowania z 2-letnim doświadczeniem zawodowym. Obecnie zajmuję się manualnym testowaniem systemu ERP (aplikacja desktopowa). Jestem w trakcie nauki tworzenia testów automatycznych. Nadal chciałabym się rozwijać w tym kierunku.
+Jestem certyfikowanym testerem oprogramowania z 2,5-letnim doświadczeniem zawodowym. Obecnie zajmuję się manualnym testowaniem systemu ERP (aplikacja desktopowa). Jestem w trakcie nauki tworzenia testów automatycznych. Nadal chciałabym się rozwijać w tym kierunku.
 
 ## Narzędzia/umiejętności
 
@@ -9,16 +9,15 @@ Jestem certyfikowanym testerem oprogramowania z 2-letnim doświadczeniem zawodow
 * TFS (raportowanie błędów)
 *	SQL
 *	Postman
-*	Git
-*	HTML, CSS, XML, JSON
-*	Chrome DevTools
+*	Selenium WebDriver + Java
+*	JUnit
+*	IntelliJ IDEA
 *	Microsoft SQL Server Management Studio
+*	Git
+*	Chrome DevTools
+*	HTML, CSS, XML, JSON
 *	Microsoft Visual Studio
-*	Visual Studio Code
-*	Java (w trakcie nauki)
 *	Selenium IDE
-*	Selenium WebDriver
-*	Scrum
 
 ## Certyfikaty
 * ISTQB® Certyfikowany Tester Poziom Podstawowy (20787/CTFL/2023)
