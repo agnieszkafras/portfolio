@@ -23,6 +23,7 @@ Jestem certyfikowanym testerem oprogramowania z 2,5-letnim doświadczeniem zawod
 * ISTQB® Certyfikowany Tester Poziom Podstawowy (20787/CTFL/2023)
 
 ## Kursy
+* Automatyzacja testów Web UI z wykorzystaniem biblioteki Selenium/Java
 * Profesjonalne testowanie oprogramowania zgodne ze standardem ISTQB® - Comarch S.A.
 * SQL język dostępu do bazy danych MS SQL Server – Comarch S.A.
 * Scrum z elementami Kanban – Comarch S.A.
