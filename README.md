@@ -1,7 +1,7 @@
 # Portfolio
 
 ## O mnie
-Jestem certyfikowanym testerem oprogramowania z 2,5-letnim doświadczeniem zawodowym. Obecnie zajmuję się manualnym testowaniem systemu ERP (aplikacja desktopowa). Jestem w trakcie nauki tworzenia testów automatycznych. Nadal chciałabym się rozwijać w tym kierunku.
+Jestem certyfikowanym testerem oprogramowania z 3-letnim doświadczeniem zawodowym. Obecnie zajmuję się manualnym testowaniem systemu ERP (aplikacja desktopowa). Jestem w trakcie nauki tworzenia testów automatycznych. Nadal chciałabym się rozwijać w tym kierunku.
 
 ## Narzędzia/umiejętności
 
@@ -10,7 +10,7 @@ Jestem certyfikowanym testerem oprogramowania z 2,5-letnim doświadczeniem zawod
 *	SQL
 *	Postman
 *	Selenium WebDriver + Java
-*	JUnit
+*	JUnit, Maven
 *	IntelliJ IDEA
 *	Microsoft SQL Server Management Studio
 *	Git
@@ -35,6 +35,7 @@ Jestem certyfikowanym testerem oprogramowania z 2,5-letnim doświadczeniem zawod
 * [GIT od podstaw dla każdego](https://www.udemy.com/course/git-od-podstaw-dla-kazdego/) – Udemy
 * [Master XPath and CSS Selectors for Selenium WebDriver](https://www.udemy.com/course/xpath-and-css-selectors/) - Udemy
 * [Advanced Selenium WebDriver with Java and TestNG](https://www.udemy.com/course/advanced-selenium-webdriver/) - Udemy
+* Kurs języka angielskiego na poziomie B2
 
 ## Książki
 *	[Adam Roman, Lucjan Stapp, Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
