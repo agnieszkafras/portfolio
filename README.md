@@ -28,6 +28,7 @@ Jestem certyfikowanym testerem oprogramowania z 3-letnim doświadczeniem zawodow
 * SQL język dostępu do bazy danych MS SQL Server – Comarch S.A.
 * Scrum z elementami Kanban – Comarch S.A.
 * Agile Testing - Comarch S.A.
+* GitHub Copilot w pracy testera oprogramowania - generowanie danych testowych - Comarch S.A.
 * [Postman od podstaw – testowanie REST API](https://www.udemy.com/course/kurs-postman/) – Udemy
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) – Udemy
 * [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://www.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw/) – Udemy
