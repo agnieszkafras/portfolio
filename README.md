@@ -29,6 +29,7 @@ Jestem certyfikowanym testerem oprogramowania z 3-letnim doświadczeniem zawodow
 * Scrum z elementami Kanban – Comarch S.A.
 * Agile Testing - Comarch S.A.
 * GitHub Copilot w pracy testera oprogramowania - generowanie danych testowych - Comarch S.A.
+* Testy wydajnościowe aplikacji webowych i usług z wykorzystaniem Apache JMeter - Comarch S.A.
 * [Postman od podstaw – testowanie REST API](https://www.udemy.com/course/kurs-postman/) – Udemy
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) – Udemy
 * [Automatyzacja testów: Selenium WebDriver Java od podstaw](https://www.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw/) – Udemy
